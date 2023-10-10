@@ -2,7 +2,7 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    background: url(https://bocchi.rocks/assets/img/page/top/mainvisual/ph_bg.png) no-repeat 10% 10%/cover, #000;
+    background: url(https://bocchi.rocks/assets/img/page/top/mainvisual/ph_bg.png) no-repeat 0 0/cover, #000;
     height: 100%;
     width: 100%;
 }
@@ -49,32 +49,6 @@ body {
 .forms{
 	float:left;
 }
-
-textarea {
-	resize:none;
-}
-
-button, input[type=button], input[type=submit], input[type=reset] {
-  font-family: sans-serif;
-  font-weight: 700;
-  background-color: #000;
-  border: none;
-  color: #fff000;
-  padding: 8px 16px;
-  text-decoration: none;
-  cursor: pointer;
-  border-radius: 2px;
-}
-
-button:hover, input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
-  background-color: blue;
-}
-
-button:active, input[type=button]:active, input[type=submit]:active, input[type=reset]:active {
-  transform: translateY(1px);
-  background-color: blue;
-}
-
 
 @keyframes chara_txtmove {
 	from {
