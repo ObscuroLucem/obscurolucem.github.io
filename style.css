@@ -2,7 +2,7 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    background: url(https://bocchi.rocks/assets/img/page/top/mainvisual/ph_bg.png) no-repeat 50% 50%/cover, #000;
+    background: url(https://bocchi.rocks/assets/img/page/top/mainvisual/ph_bg.png) no-repeat 10% 10%/cover, #000;
     height: 100%;
     width: 100%;
 }
