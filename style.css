@@ -30,6 +30,10 @@ body {
 	margin: 4% auto;
 }
 
+iframe{
+  border: none;
+}
+
 .clearfix::after{
 	content: "";
 	clear: both;
