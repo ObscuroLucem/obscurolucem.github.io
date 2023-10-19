@@ -67,3 +67,11 @@ iframe{
   font-size: 100px;
   color: #FFFFFF;
 }
+
+.Resume {
+  width: 850px;
+  height: 600px;
+  margin: auto;
+  display: block;
+  overflow: hidden;
+}
