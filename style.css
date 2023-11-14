@@ -64,7 +64,7 @@ iframe{
   bottom:-5%;
   -webkit-animation: chara_txtmove 15s linear infinite;
   animation: chara_txtmove 15s linear infinite;
-  font-size: 100px;
+  font-size: 50px;
   color: #FFFFFF;
 }
 
