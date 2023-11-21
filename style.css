@@ -30,7 +30,7 @@ body {
 	margin: 4% auto;
 }
 
-.box p{
+p.box {
   float: left;
 }
 
@@ -45,20 +45,10 @@ iframe{
 }
 
 .video {
-	float:right;
+	float: right;
 	height: 210;
 	width: 373 ;
 }
-
-@keyframes chara_txtmove {
-	from {
-    -webkit-transform: translateX(100%);
-    transform: translateX(100%);
-  }
-  to {
-    -webkit-transform: translateX(-100%);
-    transform: translateX(-100%);
-  }}
 
 .Resume {
   width: 850px;
