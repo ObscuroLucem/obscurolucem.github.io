@@ -30,6 +30,10 @@ body {
 	margin: 4% auto;
 }
 
+.box p{
+  float: left;
+}
+
 iframe{
   border: none;
 }
@@ -55,18 +59,6 @@ iframe{
     -webkit-transform: translateX(-100%);
     transform: translateX(-100%);
   }}
-
-.txtmove {
-  content: "";
-  height: 10.6vw;
-  width: 100%;
-  position: absolute;
-  bottom:-5%;
-  -webkit-animation: chara_txtmove 15s linear infinite;
-  animation: chara_txtmove 15s linear infinite;
-  font-size: 50px;
-  color: #FFFFFF;
-}
 
 .Resume {
   width: 850px;
